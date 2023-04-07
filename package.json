@@ -1,0 +1,25 @@
+{
+  "name": "namaste-react",
+  "version": "1.0.0",
+  "description": "Test 1",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/m-r-khan/React-Learning.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "Abuzar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/m-r-khan/React-Learning/issues"
+  },
+  "homepage": "https://github.com/m-r-khan/React-Learning#readme",
+  "devDependencies": {
+    "parcel": "^2.8.3"
+  }
+}
